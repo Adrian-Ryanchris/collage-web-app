@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(#00A36C 0%,#00FFFF 100%);
+}
+img:hover{
+    border-radius: 140px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
